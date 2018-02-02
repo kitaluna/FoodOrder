@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943921776180",
+    "firebase_url": "https://food-order-b21b0.firebaseio.com",
+    "project_id": "food-order-b21b0",
+    "storage_bucket": "food-order-b21b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943921776180:android:9fc13b4d685911fc",
+        "android_client_info": {
+          "package_name": "kitaluna.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943921776180-5p02llfs880otvtp494mk0ev9n7j1sna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kitaluna.foodorder",
+            "certificate_hash": "214ff14a65f75346d50b957e29d0b113860391e7"
+          }
+        },
+        {
+          "client_id": "943921776180-gv52bj5r5tb16te3748skp2qclmq27ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFUe2rQS04pHbetHvyxma1FIQrStJhqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943921776180-gv52bj5r5tb16te3748skp2qclmq27ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
